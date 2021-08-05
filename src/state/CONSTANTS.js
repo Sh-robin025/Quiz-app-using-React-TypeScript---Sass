@@ -1,0 +1,7 @@
+export const ActionType = {
+    LOADER: "LOADER",
+    LOAD_POST: "LOAD_POST",
+    CLICKED_POST: "CLICKED_POST",
+    SHOW_POPUP: "SHOW_POPUP",
+    CLOSE_POPUP: "CLOSE_POPUP",
+}
