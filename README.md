@@ -1,8 +1,13 @@
-## Table of contents
+# [Live Site](https://spektergmbh.netlify.app/)
 
-- [Live Site](https://spektergmbh.netlify.app/)
-- [Technologies](#technologies)
-- [Setup](#setup)
+## Technologies
+
+- [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
+- [React-Bootstrap](https://react-bootstrap.github.io/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [React-icons](https://react-icons.github.io/react-icons/)
+- [REACT ROUTER](https://reactrouter.com/)
 
 ## General info
 
