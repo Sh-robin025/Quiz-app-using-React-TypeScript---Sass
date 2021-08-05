@@ -39,9 +39,10 @@ Project is created with:
 
 ## Setup
 
-To run this project, install it locally using npm:
+### Only three steps are to run this project locally :
 
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+git clone https://github.com/Sh-robin025/Spekter-GmbH.git
+
+npm install
+
+npm start
